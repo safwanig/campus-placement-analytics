@@ -1,0 +1,11 @@
+student_id,roll_no,student_name,branch,cgpa,batch_year,company_name,package_lpa,role,offer_date
+1,R00001,Aman Kumar,CSE,8.20,2025,Infosys,5.00,Software Engineer,2025-06-10
+2,R00002,Riya Sharma,ECE,7.60,2025,Flipkart,10.00,SDE,2025-06-15
+3,R00003,Rahul Das,CSE,7.90,2025,TCS,4.80,Developer,2025-06-12
+4,R00004,Pooja Singh,ME,8.50,2025,Accenture,6.50,Analyst,2025-06-11
+5,R00005,Sahil Roy,CSE,6.80,2024,TCS,3.50,Trainee,2024-05-21
+6,R00006,Neha Patel,ECE,8.00,2024,Infosys,4.90,Developer,2024-05-20
+7,R00007,Vikram Jain,CE,7.10,2025,Infosys,4.00,Engineer,2025-06-16
+8,R00008,Maya Verma,CSE,9.10,2025,Google,30.00,SDE,2025-06-13
+9,R00009,Irfan Khan,ECE,6.50,2024,Accenture,5.50,Consultant,2024-05-25
+10,R00010,Sara Ali,ME,8.30,2025,Amazon,7.20,Engineer,2025-06-14
