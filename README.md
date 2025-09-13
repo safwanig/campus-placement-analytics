@@ -1,9 +1,4 @@
-Perfect 👍 Here’s the **entire polished `README.md`** with your author name included.
-You can copy–paste this directly into GitHub.
 
----
-
-```markdown
 # Placement Data Analytics Dashboard 📊
 
 This project is a **Placement Data Analytics Dashboard** built with **Python (pandas, NumPy, Matplotlib)** and **MySQL** (optional).  
